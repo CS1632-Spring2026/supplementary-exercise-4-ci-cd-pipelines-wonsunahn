@@ -5,8 +5,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>io.github.wonsunahn</groupId>
-  <artifactId>cs1632-cicd-pipelines-ventura</artifactId>
-  <version>2.0</version>
+  <artifactId>cs1632-cicd-pipelines-wahn</artifactId>
+  <version>1.2</version>
   <packaging>jar</packaging>
 
   <name>cs1632-cicd-junit</name>
